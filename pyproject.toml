@@ -1,0 +1,7 @@
+[project]
+name = "sitemk"
+version = "0.1.0"
+description = "A framework for creating static-site generators."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
